@@ -1,0 +1,10 @@
+/Release/
+/models/
+/alternate-*/
+/api-key.txt
+
+*.dll
+*.exe
+*.gguf
+*.zip
+*.log
